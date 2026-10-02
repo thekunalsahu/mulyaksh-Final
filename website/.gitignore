@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+leads.jsonl
+.env
+mulyaksh.sqlite3
+
+.developer-password.txt
